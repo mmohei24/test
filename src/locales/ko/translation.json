@@ -1,0 +1,750 @@
+{
+  "back": "Back",
+  "modal": {
+    "success": {
+      "title": "Your request has been successfully sent",
+      "text": "success",
+      "sub": " We will be in touch soon. In the meantime, why don't you read some of our articles.",
+      "btn": "go to our blog"
+    },
+    "error": {
+      "title": "Something went wrong",
+      "text": "Error",
+      "sub": "Please check your details and try again.",
+      "btn": "Send Again"
+    }
+  },
+  "home-page": {
+    "home": "Home",
+    "about": "About",
+    "faq": "FAQ",
+    "blog": "Blog",
+    "contact": "Contact Us",
+    "email": "Email",
+    "ourServices": "Our services",
+    "learnMore": "Learn more",
+    "hero": {
+      "title": "We help you build\n & improve your ",
+      "titleHightLight": "technical product",
+      "desc": "We provide Design and Development services for customized Websites, or Android, and iPhone apps.",
+      "nav": {
+        "rounded": "Get started now",
+        "web": "Web Development",
+        "app": "Mobile App Development",
+        "test": "Testing and Quality Assurance",
+        "uiUx": "UI/UX Designing Service "
+      }
+    },
+    "learAbout": {
+      "hightLight": "Learn More About Us",
+      "title": "Here’s how ",
+      "title_2": "we work",
+      "sub": "We help our clients build & improve your technical product"
+    },
+    "services": {
+      "hightLight": "Our Services",
+      "title": "What we actually do",
+      "item1": {
+        "title": "Web Development",
+        "sub": "We design and develop websites with the latest technologies for web development using content management systems or custom websites built from scratch to match your aspirations."
+      },
+      "item2": {
+        "title": "Mobile App Development",
+        "sub": "We design and develop websites with the latest technologies for web development using content management systems or custom websites built from scratch to match your aspirations."
+      },
+      "item3": {
+        "title": "Testing and Quality Assurance",
+        "sub": "We design and develop websites with the latest technologies for web development using content management systems or custom websites built from scratch to match your aspirations."
+      },
+      "item4": {
+        "title": "UI/UX Designing Service",
+        "sub": "We design and develop websites with the latest technologies for web development using content management systems or custom websites built from scratch to match your aspirations."
+      }
+    },
+    "technologies": {
+      "hightLight": "Technologies",
+      "title": "What we use",
+      "app": "Mobile App Development",
+      "backend": "Backend",
+      "frontend": "Frontend",
+      "uiUx": "UI/UX Designing Services",
+      "contactUs": "Contact us",
+      "question": "Do you have any questions?",
+      "talk": "Let’s talk"
+    },
+    "working": {
+      "project": {
+        "made": "Made with",
+        "process": "What we've done",
+        "sub": "At the forefront of our achievements stands Company A, a versatile and powerful software solution meticulously crafted by our expert team. This application serves as a comprehensive tool, addressing diverse needs with unparalleled efficiency.",
+        "viewCase": "view case study",
+        "hightLight": "Portfolio",
+        "title": "View our works",
+        "btnText": "see all our projects"
+      },
+      "howWork": {
+        "hightLight": "How We Work",
+        "title": "Our project journey",
+        "item1": {
+          "title": "Preparatory meeting with the client",
+          "sub": "We meet with the customer via video calling services such as Zoom or Google Meet to understand the customer's requirements."
+        },
+        "item2": {
+          "title": "Technical specifications Preparation",
+          "sub": "We prepare the initial business plan and the techniques we recommend based on the customer's requirements and the nature of the product."
+        },
+        "item3": {
+          "title": "Project estimating",
+          "sub": "We appreciate the project from a financial point of view and in terms of te time required to complete the development."
+        },
+        "item4": {
+          "title": " Signing the agreement",
+          "sub": "We appreciate the project from a financial point of view and in terms of te time required to complete the development."
+        },
+        "item5": {
+          "title": "Designing the UI and UX",
+          "sub": "We sign the service agreement and field agreement with the customer to ensure that the customer delivers all the features requested by the customer and in the same way that the customer wants it to work."
+        },
+        "item6": {
+          "title": "Development",
+          "sub": "After seeing the design in front of us and knowing each feature, where it is in the application and how to learn, we start the development process with confidence, diligence, responsibility, and professionalism. We know what we're doing."
+        },
+        "item7": {
+          "title": "Quality Assurance",
+          "sub": "In the quality testing phase, we test the product's safety, security, and functionality. We fix any bug, if any, increase the speed and performance of any slow feature and fix any vulnerability. As we said before: we work hard, are responsible and professional."
+        },
+        "item8": {
+          "title": "Publish the product online",
+          "sub": "After the work is done, we publish the product on the internet and in the app stores after the customer's approval."
+        },
+        "item9": {
+          "title": "Continuous improvement",
+          "sub": "Our role does not end after the product is published on the Internet; we constantly perform maintenance and improvement operations on the products and on the servers (servers) that host the product and make updates and upgrades as requested by the customer to ensure the success of the product. Your success is our success."
+        }
+      }
+    },
+    "getInTouch": {
+      "hightLight": "We Should talk",
+      "title": "Get in touch",
+      "placeholderName": "Your name*",
+      "placeholderPhone": "Your phone number*",
+      "placeholderMail": "Your email*",
+      "placeholderMess": "Your message",
+      "btnSubmit": "send a massage",
+      "note": "The form will be sent to our email box, you can also send us an email directly to "
+    }
+  },
+
+  "about-us": {
+    "hero": {
+      "hightLight": "Discover About Us",
+      "title": "Who we are?",
+      "desc": " We help our clients build & improve your technical product"
+    },
+    "ourMission": {
+      "hightLight": "You Can Expect",
+      "title": "We provide",
+      "item1": {
+        "title": "Design and development services",
+        "sub": "for customized websites, and Android and Iphone applications development."
+      },
+      "item2": {
+        "title": "Creation and design of electronic stores",
+        "sub": "using the most famous and best current electronic store platforms with efficiency and professionalism."
+      },
+      "item3": {
+        "title": "A highly professional ui and ux design",
+        "sub": "service, considering the required factors to be provided in the designs to obtain the largest number of users and form a long relationship with them."
+      }
+    },
+    "ourFacilities": {
+      "hightLight": "We are experts in",
+      "success": "successful projects",
+      "happy": "happy customers",
+      "professionals": "professionals in the team",
+      "item1": {
+        "content": "trustworthy",
+        "desc": "We earn the trust of our customers by taking every customer' requirement seriously and responsibly."
+      },
+      "item2": {
+        "content": "responsibility",
+        "desc": "We taking the success of the customer' product as our full responsibility."
+      },
+      "item3": {
+        "content": "professionalism",
+        "desc": "A successful product is a product that is well prepared and developed."
+      },
+      "item4": {
+        "content": "relationships",
+        "desc": "We build our long-standing client relationships when we build trust, take responsibility, and develop products perfectly. We say it very clearly. Your success is our success."
+      }
+    },
+    "innovation": {
+      "hightLight": "World Map",
+      "title": "Clients we’ve already worked with",
+      "place": "Canada",
+      "place_later": "Quebec",
+      "project": "Projects have been completed"
+    }
+  },
+
+  "blog-page": {
+    "navigation": "Blog",
+    "hero": {
+      "titleHighlight": "Useful Articles",
+      "titleAfter": "Our blog"
+    },
+    "type": {
+      "all": {
+        "id": "all",
+        "title": "All posts"
+      },
+      "insights": {
+        "id": "insights",
+        "title": "insights"
+      },
+      "development": {
+        "id": "development",
+        "title": "development"
+      },
+      "design": {
+        "id": "design",
+        "title": "design"
+      },
+      "seo": {
+        "id": "seo",
+        "title": "seo"
+      }
+    },
+    "search": {
+      "text": "search",
+      "placeholder": "I’m looking for"
+    },
+    "items": {
+      "item1": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item2": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item3": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item4": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item5": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item6": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item7": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item8": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item9": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item10": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item11": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      },
+      "item12": {
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+      }
+    },
+    "show-more": {
+      "text": "Show More"
+    }
+  },
+
+  "blog-details-page": {
+    "navigation": "Insights",
+    "type": "insights",
+    "title": "Unleashing\nTechnological Insights:\nNavigating the IT",
+    "back-to-blog": "Back to Blog",
+    "table-title": "Table of Contents",
+    "next-blog": "Next post",
+    "previous-blog": "Previous post",
+    "share": "share",
+    "otherBlog": "Other Articles",
+    "subOther": "You may also like",
+    "endBlog": " There's no next post, you are reading the oldest one",
+    "openBlog": "In the fast-paced realm of Information Technology, staying ahead of the curve is not just a competitive advantage – it's a necessity. As businesses increasingly rely on technology to drive innovation, productivity, and efficiency, IT companies play a pivotal role in shaping the digital landscape. In this article, we delve into key insights that define the dynamic world of IT, shedding light on the trends, challenges, and opportunities that businesses need to embrace for sustained success.",
+    "finalPoint": "Final point",
+    "contentFinal": "In conclusion, the IT landscape is ever-evolving, and successful businesses understand the importance of staying informed and adaptable. By embracing cloud-native architecture, prioritizing cybersecurity, leveraging AI and ML effectively, embracing edge computing, ensuring data privacy, and adopting DevOps practices, organizations can position themselves for success in the digital age. IT companies that provide these insights and guide businesses through their technological journey are invaluable partners in navigating the complex and exciting world of information technology.",
+    "blogDefault": {
+      "item1": {
+        "title": "1. Where do they speak Arabic?",
+        "desc": "The cloud has revolutionized how IT services are delivered, paving the way for a new era of agility and scalability. Cloud-native architecture is now at the forefront, enabling organizations to build and deploy applications that fully leverage the advantages of the cloud. From microservices to containerization, understanding and adopting these concepts can significantly enhance an IT infrastructure's flexibility and efficiency.",
+        "method": "By embracing cloud-native architecture, prioritizing cybersecurity, leveraging AI and ML effectively."
+      },
+      "item2": {
+        "title": "2. The Rise of Edge Computing",
+        "desc": "As the Internet of Things (IoT) continues to proliferate, edge computing is emerging as a critical component in handling the massive amounts of data generated by connected devices. By processing data closer to the source, edge computing reduces latency and enhances real-time decision-making capabilities. IT companies must guide businesses in implementing effective edge computing solutions to harness the full power of IoT.",
+        "method": "By embracing cloud-native architecture, prioritizing cybersecurity, leveraging AI and ML effectively. "
+      }
+    }
+  },
+  "service-page": {
+    "hero": {
+      "titleHighlight": "Our Services",
+      "title": "What we\nactually do"
+    },
+    "navigation": "Our services",
+    "web-development": {
+      "hero": {
+        "navigation": "Web development",
+        "title": "Web\nDevelopment",
+        "subtitle": "Overcome business challenges and enhance your business growth with our software development services customized to your needs.",
+        "start-project": "Start your project"
+      },
+      "core": {
+        "titleHighlight": "Delivering Core Software",
+        "title": "Development value",
+        "data": {
+          "item1": {
+            "number": "01/",
+            "title": "Invest in results-oriented ideas and concept",
+            "subtitle": "Spatium Software delivers innovative solutions that will help you achieve your goals faster, no matter your industry or the lifecycle stage of your product. We provide idea validation and pre-market testing services to reduce risks hence building a product that perfectly meets your customers' needs."
+          },
+          "item2": {
+            "number": "02/",
+            "title": "Capitalize on market demand",
+            "subtitle": "Thanks to rapidly evolving technology, there has never been a better time to harness its power to overcome challenges, manage costs, and access global markets than today. Technology gives you the flexibility and visibility of your product and business needs to capture customers' attention anywhere in the world."
+          },
+          "item3": {
+            "number": "03/",
+            "title": "Build and integrate custom software tool",
+            "subtitle": "We design, build and maintain custom-made software tools that seamlessly integrate with your current business applications. The software tools we create also fit a wide range of business domains and tech stacks."
+          },
+          "item4": {
+            "number": "04/",
+            "title": "Enhance the capabilities of your legacy system",
+            "subtitle": "If you have legacy systems that you are already using, we can help you bring them up to speed with the current technologies. This will minimize business interruptions and reduce risk while modernizing your legacy infrastructure and old systems. Some of the new capabilities we integrate with your legacy systems include Data analytics, taking advantage of cloud technology, and much more."
+          },
+          "item5": {
+            "number": "05/",
+            "title": "Streamline your workflows and processes using automation",
+            "subtitle": "We build software that can streamline your systems and processes to get higher production rates, increased productivity, more efficient processes, higher quality products, more return on investment, and more."
+          }
+        }
+      },
+      "list-note": {
+        "item1": {
+          "subtitle": "Spatium Software is among the leading software development service providers for small businesses, startups, and large enterprises."
+        },
+        "item2": {
+          "subtitle": "We build customized web and mobile applications along with other software products to help you meet your business goals in today’s extremely competitive business environment."
+        },
+        "item3": {
+          "subtitle": "Partnering with us will help reduce your overall production costs and time to market, all without having to compromise the quality and the user experience of your products."
+        }
+      },
+      "service": {
+        "titleHighlight": "We provide",
+        "title": "Web development services",
+        "subtitle": "If you need a web application or website, Spatium Software has got you covered; we offer web development services for several types of websites and web apps. Some of the web development services we offer include the following:",
+        "items": {
+          "item1": {
+            "number": "01/",
+            "title": "Full product life cycle",
+            "content": "This involves building your entire web product from “start to finish.” This involves planning, designing, building, testing, and deploying the product to the web. All you have to do is give us your concept."
+          },
+          "item2": {
+            "number": "02/",
+            "title": "Improve an existing software",
+            "content": "We also revamp existing products to enable them to meet the new dynamics in the market. "
+          },
+          "item3": {
+            "number": "03/",
+            "title": "Redesign/re-engineer an existing software product",
+            "content": "This involves a full redesign of the product to boost or totally change its functionality. "
+          },
+          "item4": {
+            "number": "04/",
+            "title": "Bring a dead product back to life",
+            "content": "If you have a project idea that you have been sitting on for years, we can help you bring it to life."
+          }
+        },
+        "learn-more": "learn more"
+      },
+      "why-choose": {
+        "titleHighlight": "Why choose",
+        "title": "Spatium Software",
+        "items": {
+          "item1": {
+            "title": "We have a team of talented",
+            "content": "and experienced indiduals in various tech fields, including web development, cloud computing, Artificial Intelligence, Machine learning, etc."
+          },
+          "item2": {
+            "title": "Our services are transparent,",
+            "content": "so the client is able to follow their project from start to finish."
+          },
+          "item3": {
+            "title": "Our solutions are tailored",
+            "content": "to your business' vision and mission."
+          }
+        }
+      }
+    },
+    "mobile-development": {
+      "navigation": "Mobile App Development",
+      "hero": {
+        "title": "Mobile App\nDevelopment",
+        "subtitle": "Mobile apps have become one of the primary platforms for targeting millions of users across the globe.",
+        "start-project": "Start your project"
+      },
+      "list-note": {
+        "items": {
+          "item1": {
+            "sub": "You can work with us to create native, hybrid, and cross-platform applications built with user experience, UI, security, and usability in mind"
+          },
+          "item2": {
+            "sub": "We build apps for several mobile devices, including Smartphones, wearables, tablets, and many more."
+          }
+        }
+      },
+      "core": {
+        "titleHighlight": "How We Deliver",
+        "title": "A 5-star mobile app experience",
+        "items": {
+          "item1": {
+            "sub": "We understand that different industries have different needs, so all the apps we create are customized based on the unique needs of your industry.",
+            "number": "01/",
+            "title": "We customize apps to your industry"
+          },
+          "item2": {
+            "sub": "We also create apps that are tailored to your target market with the aim of giving the best experience. Customers in this era know what a good mobile app should look like, so they won't settle for less.",
+            "number": "02/",
+            "title": "Customer needs first"
+          },
+          "item3": {
+            "sub": "The apps we build are efficient, reliable, and scalable to maintain stable performance no matter the number of people using the app at a time.",
+            "number": "03/",
+            "title": "High-traffic apps"
+          },
+          "item4": {
+            "sub": "While building mobile apps, we make sure they integrate with the current business apps to enable the seamless exchange of data.",
+            "number": "04/",
+            "title": "We integrate the apps with your current systems"
+          }
+        }
+      },
+      "expert": {
+        "title": "We are\nexperts in",
+        "items": {
+          "item1": {
+            "sub": "Spatium Software has a team of experienced and talented individuals that will build your mobile apps faster and also reduce the time of bringing your app to the market.",
+            "number": "01/",
+            "title": "Mobile app Development"
+          },
+          "item2": {
+            "sub": "Spatium Software builds customer-centric apps for a wide range of mobile Apple devices, including iPhones, iPads, and Apple TV. We also offer porting services, which include porting Android apps to iOS.",
+            "number": "02/",
+            "title": "iOS App Development"
+          },
+          "item3": {
+            "sub": "Spatium Software also builds Android apps for all mobile Android devices, including Android smartphones, tablets, and TVs. Our full-cycle app development services also include support after the product has got to the market.",
+            "number": "03/",
+            "title": "Android App Development"
+          },
+          "item4": {
+            "sub": "We build mobile apps with reusable code, making it possible to use them on different platforms. This will save you costs and also accelerate your time to market. Our cross-platform development services include the development of hybrid apps for smartphones, tablets, and smart TVs.",
+            "number": "04/",
+            "title": "Cross-platform App Development"
+          }
+        }
+      },
+      "our-expert": {
+        "titleHighlight": "Our Experts",
+        "title": "Expert mobile app development",
+        "sub": "Our experts build all forms of mobile apps for multiple platforms to help you enhance your productivity and to provide the best user experience for your customers.",
+        "items": {
+          "item1": {
+            "number": "01/",
+            "title": "Native app development",
+            "content": "We build apps that are tailored for specific platforms and devices to offer a unique and personalized experience to your users."
+          },
+          "item2": {
+            "number": "02/",
+            "title": "Custom mobile app development",
+            "content": "We build apps that are customized to the needs of your business and your customers."
+          },
+          "item3": {
+            "number": "03/",
+            "title": "Mobile app development for enterprises",
+            "content": "We create mobile apps tailored to solve the needs of an enterprise environment and workflows."
+          }
+        }
+      },
+      "service": {
+        "titleHighlight": "Scope of",
+        "title": "Mobile app development service",
+        "items": {
+          "item1": {
+            "number": "01/",
+            "title": "Quality Assurance and support services"
+          },
+          "item2": {
+            "number": "02/",
+            "title": "App development for all mobile platforms, including iOS and Android"
+          },
+          "item3": {
+            "number": "03/",
+            "title": "App maintenance services"
+          },
+          "item4": {
+            "number": "04/",
+            "title": "UI design for mobile apps"
+          },
+          "item5": {
+            "number": "05/",
+            "title": "Mobile app development consultation services"
+          }
+        }
+      },
+      "whyChoose": {
+        "title": "Why choose",
+        "sub": "Spatium Software",
+        "item1": {
+          "title": "Low development costs",
+          "sub": "We know how to build mobile apps while keeping the costs minimal and without compromising the quality of the final product."
+        },
+        "item2": {
+          "title": "All processes are transparent",
+          "sub": "We allow the customer to openly follow all the processes and offer guidance during the app development process."
+        },
+        "item3": {
+          "title": "Experienced and talented team",
+          "sub": "We have some of the most talented and experienced teams in the industry. Our developers also undergo routine training to help them stay up to speed with new technologies and web solutions."
+        }
+      },
+      "technology": {
+        "titleHighlight": "Technologies",
+        "title": "Design tools we use",
+        "Illustrator": "Illustrator",
+        "Sketch": "Sketch",
+        "XD": "XD",
+        "Photoshop": "Photoshop"
+      }
+    },
+    "testing": {
+      "navigation": "Testing & Quality Assurance",
+      "hero": {
+        "title": "Testing &\nQuality\nAssurance",
+        "subtitle": "Overcome business challenges and enhance your business growth with our software development services customized to your needs.",
+        "start-project": "Start your project"
+      },
+      "list-note": {
+        "items": {
+          "item1": {
+            "sub": "Spatium Software offers QA and testing services to help you provide products that will positively represent your brand in the market."
+          },
+          "item2": {
+            "sub": "You can partner with Spatium Software for quality assurance and testing to help you ship better quality products to the market faster."
+          },
+          "item3": {
+            "sub": "Our QA and testing services will also minimize downtime costs and other expenses thanks to our expertise in automation testing."
+          }
+        }
+      },
+      "core": {
+        "titleHighlight": "Delivering best in class",
+        "title": "Quality Assurance and Testing",
+        "items": {
+          "item1": {
+            "sub": "You can boost the confidence and trust of your users by giving them high-quality software that has been tested and proven to work in various real-world environments and scenarios.",
+            "number": "01/",
+            "title": "Shipping high-quality software"
+          },
+          "item2": {
+            "sub": "Quality Assurance is among the tasks that most businesses spend a lot of time on. Partnering with Spatium Software will help you reduce your time to market, thanks to their fast and reliable QA and testing services.",
+            "number": "02/",
+            "title": "Minimize the time to market"
+          },
+          "item3": {
+            "sub": "At Spatium Software, we have a team that is dedicated to QA and testing. Our QA engineers have the expertise and experience gained over the years to test various kinds of apps.",
+            "number": "03/",
+            "title": "Dedicated automation testing team"
+          }
+        }
+      },
+      "service": {
+        "titleHighlight": "We provide",
+        "title": "Reliable Software Testing Services",
+        "subtitle": "Spatium Software offers reliable software testing services, including:",
+        "items": {
+          "item1": {
+            "number": "01/",
+            "title": "Dedicated QA teams",
+            "content": "We have teams that are dedicated to the quality assurance of your apps, so you don’t have to worry about this aspect of the app. "
+          },
+          "item2": {
+            "number": "02/",
+            "title": "Enterprise testing solution",
+            "content": "We have the expertise and experience to test enterprise-level applications to ensure they meet the minimum quality requirements before being shipped to the market. "
+          },
+          "item3": {
+            "number": "03/",
+            "title": "Security Quality Assurance",
+            "content": "We have the expertise and experience to test enterprise-level applications to ensure they meet the minimum quality requirements before being shipped to the market."
+          },
+          "item4": {
+            "number": "04/",
+            "title": "Manual and automated app testing",
+            "content": "We have the expertise and experience to test enterprise-level applications to ensure they meet the minimum quality requirements before being shipped to the market."
+          },
+          "item5": {
+            "number": "05/",
+            "title": "QA for performance",
+            "content": "We have the expertise and experience to test enterprise-level applications to ensure they meet the minimum quality requirements before being shipped to the market."
+          }
+        }
+      },
+      "why-choose": {
+        "titleHighlight": "Why choose",
+        "title": "Spatium Software",
+        "items": {
+          "item1": {
+            "title": "Experienced team of experts",
+            "content": "Spatium Software has high hiring standards that have enabled us to get some of the most talented and experienced teams in the industry. We also offer further training to all our team members to gain more skills and expertise to enable them to solve some of the more complex issues."
+          },
+          "item2": {
+            "title": "Transparent processes",
+            "content": "We allow our clients to openly follow along as we do the testing of their product. This gives clients real-time updates about the status of their projects."
+          },
+          "item3": {
+            "title": "Customized solutions",
+            "content": "Our team does the testing based on the specific needs of your business. We don't offer generalized solutions because we know the testing needs for various applications are not the same."
+          }
+        }
+      }
+    },
+    "uiux": {
+      "navigation": "UI/UX Design",
+      "hero": {
+        "title": "UI/UX Design",
+        "subtitle": "Creating top-notch UI/UX designs is something Spatium Software has been doing for several years. You can exceed the expectations of your users with our UI and UX services.",
+        "start-project": "Start your project"
+      },
+      "list-note": {
+        "items": {
+          "item1": {
+            "sub": "You can exceed the expectations of your users with our UI and UX services. Our primary focus on each UI/UX project is giving the final users of the product the best experience ever."
+          },
+          "item2": {
+            "sub": "Whether you are working on a web-based app or SaaS product, we have a talented team that will help you create intuitive and well-designed UI without compromising the functionality of the product."
+          }
+        }
+      },
+      "core": {
+        "titleHighlight": "How We Work",
+        "title": "UI/UX Design stages",
+        "items": {
+          "item1": {
+            "number": "01/",
+            "title": "Research your business and users",
+            "content": "Our team starts by identifying the needs of your business and what your customers expect the product to deliver. The data we get from this research is what we use to decide on the best technologies and strategies to use while creating your application's UI and UX designs."
+          },
+          "item2": {
+            "number": "02/",
+            "title": "Developing your information architecture",
+            "content": "The information gathered from the research is turned into technical requirements to be implemented while creating the UI/UX design of the product. Our goal is to develop features that your target users can easily relate to."
+          },
+          "item3": {
+            "number": "03/",
+            "title": "Developing the wireframe of the product",
+            "content": "Before creating the prototype, our team starts with creating the user flow that describes how the users will interact and use the product. This is to ensure the product addresses the needs of the users before taking any further steps in development. The user flow also lets you view how different users will interact with the product and the changes you can make before the prototyping stage."
+          },
+          "item4": {
+            "number": "04/",
+            "title": "Prototyping and testing",
+            "content": "Once the user flow meets the product requirements, a prototype is built to visualize and test the functionality of the product before creating it. Our team at Spatium Software will iterate the prototype until the end-users are satisfied with its outlook and functionality."
+          },
+          "item5": {
+            "number": "05/",
+            "title": "Designing the user interface of the final product",
+            "content": "Once the prototype is approved, we head over to the next phase of creating the interface of the actual product. We design the interface that will give your users an experience beyond their expectations. This will eventually boost the revenue of your product, better operational efficiency, and more customer satisfaction."
+          }
+        }
+      },
+      "expert": {
+        "title": "We are experts in",
+        "items": {
+          "item1": {
+            "sub": "Your dedicated design team understands user research is the cornerstone of any successful UI/UX project. When you take time to know your end users in and out, you can build great websites, applications and other products that customers love. More income = happier customers.",
+            "number": "01/",
+            "title": "User Research"
+          },
+          "item2": {
+            "sub": "We pay close attention to your user's experience and design, focusing on their goals, needs, desires, and pain points. When you work with us, you get accolades for work well done with word-of-mouth advertising that attracts more clients to your business while your users get the experience they desire from you.",
+            "number": "02/",
+            "title": "User Experience Design"
+          },
+          "item3": {
+            "sub": "When combined with extensive user testing, a robust prototype ensures that you are releasing the right product for your customers. Spatium Software is an expert at prototyping and user testing. You will get a tremendous and unique prototype, and the testing experience will leave your customers wanting more.",
+            "number": "03/",
+            "title": "Prototyping and User Testing"
+          }
+        }
+      },
+      "our-expert": {
+        "titleHighlight": "Achieve More Than",
+        "title": "Amazing UI/UX",
+        "items": {
+          "item1": {
+            "number": "01/",
+            "title": "Match Design with business objective",
+            "content": "Integrating your UI/UX design project with your company's goals can create immense value for your customers and bottom line."
+          },
+          "item2": {
+            "number": "02/",
+            "title": "Create an engaging product",
+            "content": "When customers are excited about a product, they sell using words of mouth. This is why a good user interface is very important. It attracts new customers and retains existing ones."
+          },
+          "item3": {
+            "number": "03/",
+            "title": "Improves user satisfaction",
+            "content": "Get your end-users 'wowed' using your UI/UX design. Remember that their satisfaction and loyalty skyrockets when you go above and beyond their expectations."
+          },
+          "item4": {
+            "number": "04/",
+            "title": "Enhance the UI/UX of the current app",
+            "content": "To make a difference, you do not need to start afresh. Simply improve the UI/UX of an existing app while increasing revenue and gaining adoring followers."
+          }
+        }
+      }
+    }
+  },
+
+  "404-page": {
+    "desc": "Ooops! Something’s missing",
+    "button-text": "Back to Home"
+  },
+
+  "footer": {
+    "navigation": {
+      "title": "Navigation",
+      "item_1": "Product & Service",
+      "item_2": "Simulation",
+      "item_4": "About us",
+      "item_5": "News"
+    },
+    "usefulLinks": {
+      "title": "Useful links",
+      "item_1": "Contact",
+      "item_2": "Private policy",
+      "item_3": "Legal notices"
+    },
+    "mapsLocation": "Maps location",
+    "follows": "Follow us",
+    "author_left": "2021 All rights reserved",
+    "author_right": "Designed and developed by LesBonsTech"
+  }
+}

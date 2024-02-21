@@ -1,0 +1,88 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+
+/* Additional styles */
+
+@import "additional-styles/utility-patterns.css";
+@import "additional-styles/range-slider.css";
+@import "additional-styles/toggle-switch.css";
+@import "additional-styles/theme.css";
+@import "tailwindcss/utilities";
+
+/* Additional Tailwind directives: https://tailwindcss.com/docs/functions-and-directives/#responsive */
+
+@layer utilities {
+    .rtl {
+        direction: rtl;
+    }
+    .text-gradient {
+        background: linear-gradient(217deg, #00fb94 21.89%, #00a6f9 70.72%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .text-gradient-2 {
+        background: linear-gradient(217deg, #00fb94 21.89%, #00a6f9 70.72%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .text-gradient-3 {
+        background: linear-gradient(180deg, #fff 0%, rgba(255, 255, 255, 0.6) 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .bg-btn-send-contact {
+        background: linear-gradient(93deg, rgba(255, 255, 255, 0.2) 4.32%, rgba(255, 255, 255, 0.05) 92.92%);
+        backdrop-filter: blur(31.899999618530273px);
+    }
+    .text-gradient-4 {
+        background: linear-gradient(180deg, #00fb94 0%, #00a6f9 100%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .text-gradient-blog {
+        background: linear-gradient(94deg, #00fb94 1.89%, #208774 91.89%);
+        background-clip: text;
+        -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;
+    }
+    .border-contact-us {
+        border-radius: 44px;
+        border: 1px solid #fff;
+        background: linear-gradient(93deg, rgba(255, 255, 255, 0.2) 4.32%, rgba(255, 255, 255, 0.05) 92.92%);
+        backdrop-filter: blur(31.899999618530273px);
+        padding: 12px 20px;
+    }
+    .line-header {
+        width: 1px;
+        height: 44px;
+        background: linear-gradient(180deg, rgba(255, 255, 255, 0.2) 0%, rgba(255, 255, 255, 0.05) 100%);
+    }
+
+    .bg-gradient {
+        border-radius: 64px;
+        background: linear-gradient(180deg, #11142b 0%, rgba(17, 20, 43, 0.6) 100%);
+    }
+
+    .border-about-provide {
+        border-bottom: 1px solid;
+        border-image: linear-gradient(to right, white, transparent) 1;
+    }
+
+    @variants responsive {
+        /* Hide scrollbar for Chrome, Safari and Opera */
+        .no-scrollbar::-webkit-scrollbar {
+            display: none;
+        }
+        /* Hide scrollbar for IE, Edge and Firefox */
+        .no-scrollbar {
+            -ms-overflow-style: none;
+            /* IE and Edge */
+            scrollbar-width: none;
+            /* Firefox */
+        }
+    }
+}

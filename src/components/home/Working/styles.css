@@ -1,0 +1,61 @@
+.working-home .flickity-enabled {
+    position: relative;
+}
+
+.working-home .flickity-enabled:focus {
+    outline: none;
+}
+
+.working-home .flickity-viewport {
+    position: relative;
+    height: 100%;
+}
+
+.working-home .flickity-slider {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.working-home .flickity-enabled:focus {
+    outline: none;
+}
+
+.working-home .flickity-page-dots {
+    position: absolute;
+    width: 100%;
+    bottom: -50px;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    text-align: center;
+    line-height: 1;
+}
+
+.work-slide .working-home .flickity-page-dots {
+    bottom: -80px;
+}
+
+.working-home .flickity-rtl .working-home .flickity-page-dots {
+    direction: rtl;
+}
+
+.working-home .flickity-page-dots .dot {
+    display: inline-block;
+    width: 25px;
+    height: 2px;
+    margin: 0 8px;
+    background-color: #fff;
+    opacity: 0.25;
+    cursor: pointer;
+}
+
+.working-home .flickity-page-dots .dot.is-selected {
+    opacity: 1;
+}
+
+@media screen and (min-width:768px) {
+    .work-slide .working-home .flickity-viewport .is-selected>div {
+        transform: scale(1.2);
+    }
+}
